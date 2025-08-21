@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak sai</h1>
-<h3 align="center">Currently student in (INFORMTION TCHNOLOGY)</h3>
+<h3 align="center">Currently studying in (INFORMTION TECHNOLOGY)
 
 - 🔭 I’m currently working on **C LANGUAGE**
 
